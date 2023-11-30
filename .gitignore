@@ -1,0 +1,13 @@
+# Godot 4+ specific ignores
+.godot/
+
+# Node Modules (commitzen dependencies)
+/node_modules/
+
+# CommitzenConfiguration
+.czrc
+.cz-config.js
+package.json
+package-lock.json
+cz-config.js
+6. use "npx git-cz" to commit
